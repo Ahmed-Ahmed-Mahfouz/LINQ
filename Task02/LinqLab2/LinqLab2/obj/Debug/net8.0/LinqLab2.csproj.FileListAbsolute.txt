@@ -1,0 +1,14 @@
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\bin\Debug\net8.0\LinqLab2.exe
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\bin\Debug\net8.0\LinqLab2.deps.json
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\bin\Debug\net8.0\LinqLab2.runtimeconfig.json
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\bin\Debug\net8.0\LinqLab2.dll
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\bin\Debug\net8.0\LinqLab2.pdb
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\obj\Debug\net8.0\LinqLab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\obj\Debug\net8.0\LinqLab2.AssemblyInfoInputs.cache
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\obj\Debug\net8.0\LinqLab2.AssemblyInfo.cs
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\obj\Debug\net8.0\LinqLab2.csproj.CoreCompileInputs.cache
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\obj\Debug\net8.0\LinqLab2.dll
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\obj\Debug\net8.0\refint\LinqLab2.dll
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\obj\Debug\net8.0\LinqLab2.pdb
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\obj\Debug\net8.0\LinqLab2.genruntimeconfig.cache
+D:\LinQ-ITI\Lab2\LinqLab2\LinqLab2\obj\Debug\net8.0\ref\LinqLab2.dll
